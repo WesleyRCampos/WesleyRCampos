@@ -1,6 +1,6 @@
 ## Olá! Eu sou Wesley 😎
 
-Sou desenvolvedor web front-end, atualmente estou trabalhando no meu desenvolvimento profissional e novas abilidades.🚀🚀
+Sou desenvolvedor web front-end, atualmente estou trabalhando no meu desenvolvimento profissional e novas habilidades.🚀🚀
 <div display= inline_block>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyRCampos&show_icons=true&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyRCampos&layout=compact&langs_count=16&theme=midnight-purple"/>
