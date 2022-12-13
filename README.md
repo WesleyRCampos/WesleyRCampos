@@ -25,4 +25,5 @@ Sou desenvolvedor web front-end, atualmente estou trabalhando no meu desenvolvim
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.wesleyc21rodrigues@gmail.com)
 
 </br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WesleyRCampos&bg_color=000000&color=00ffff&line=500ead&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
