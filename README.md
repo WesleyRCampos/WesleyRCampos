@@ -23,3 +23,6 @@ Sou desenvolvedor web front-end, atualmente estou trabalhando no meu desenvolvim
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KB6DKNHH4GE5K1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-de-campos-rodrigues-2a3395171)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.wesleyc21rodrigues@gmail.com)
+
+</br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WesleyRCampos&bg_color=000000&color=00ffff&line=500ead&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
